@@ -1,7 +1,5 @@
 {
-  "url": "<app-url>",
+  "url": "https://raw.githubusercontent.com/Exine-pro/ExineAiBot-tonconnect-manifest/refs/heads",
   "name": "ExineAIBot",
-  "iconUrl": "<app-icon-url>",
-  "termsOfUseUrl": "<terms-of-use-url>",
-  "privacyPolicyUrl": "<privacy-policy-url>"
+  "iconUrl": "https://raw.githubusercontent.com/Exine-pro/ExineAiBot-tonconnect-manifest/refs/heads/master/ExineLogo.png"
 }
